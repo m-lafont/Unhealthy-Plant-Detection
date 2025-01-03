@@ -18,7 +18,7 @@ This project utilizes a fine-tuned EfficientNet B0 model with extensive preproce
 
 ## Project Structure
 - **`notebooks/Unhealthy_Plant_Detection.ipynb`**: Main Jupyter notebook containing code for data preprocessing, model training, evaluation, and visualization.
-- **`reports/Unhealthy_Plant_Detection_Report.pdf`**: Detailed report outlining methodology, experiments, and results.
+- **`report/Unhealthy_Plant_Detection_Report.pdf`**: Detailed report outlining methodology, experiments, and results.
 - **`data/`**: Contains the dataset used for training, validation, and testing.
 
 ---
